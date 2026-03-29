@@ -1,0 +1,44 @@
+{
+  "stations": [
+    {
+      "id": "hiru-fm",
+      "name": "Hiru FM",
+      "language": "Sinhala",
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/hirufmmpeg",
+      "logoColor": "#e74c3c",
+      "logoText": "HF"
+    },
+    {
+      "id": "sirasa-fm",
+      "name": "Sirasa FM",
+      "language": "Sinhala",
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/sirasafmmpeg",
+      "logoColor": "#3498db",
+      "logoText": "SF"
+    },
+    {
+      "id": "gold-fm",
+      "name": "Gold FM",
+      "language": "English",
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/goldfmmpeg",
+      "logoColor": "#2ecc71",
+      "logoText": "GF"
+    },
+    {
+      "id": "shree-fm",
+      "name": "Shree FM",
+      "language": "Sinhala",
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/shreefmmpeg",
+      "logoColor": "#f39c12",
+      "logoText": "SF"
+    },
+    {
+      "id": "sooryan-fm",
+      "name": "Sooryan FM",
+      "language": "Tamil",
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/sooryanfmmpeg",
+      "logoColor": "#9b59b6",
+      "logoText": "SO"
+    }
+  ]
+}
