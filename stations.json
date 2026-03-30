@@ -4,7 +4,7 @@
       "id": "hiru-fm",
       "name": "Hiru FM",
       "language": "Sinhala",
-      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/hirufmmpeg",
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden",
       "logoColor": "#e74c3c",
       "logoText": "HF"
     },
@@ -20,7 +20,7 @@
       "id": "gold-fm",
       "name": "Gold FM",
       "language": "English",
-      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/goldfmmpeg",
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/goldfmgarden",
       "logoColor": "#2ecc71",
       "logoText": "GF"
     },
