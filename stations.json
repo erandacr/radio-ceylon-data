@@ -12,7 +12,7 @@
       "id": "sirasa-fm",
       "name": "Sirasa FM",
       "language": "Sinhala",
-      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/sirasafmmpeg",
+      "streamUrl": "https://radio.lotustechnologieslk.net:8000/sirasafm",
       "logoColor": "#3498db",
       "logoText": "SF"
     },
@@ -28,7 +28,7 @@
       "id": "shree-fm",
       "name": "Shree FM",
       "language": "Sinhala",
-      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/shreefmmpeg",
+      "streamUrl": "https://radio.lotustechnologieslk.net:8000/shreefm",
       "logoColor": "#f39c12",
       "logoText": "SF"
     },
@@ -36,9 +36,17 @@
       "id": "sooryan-fm",
       "name": "Sooryan FM",
       "language": "Tamil",
-      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/sooryanfmmpeg",
+      "streamUrl": "https://radio.lotustechnologieslk.net:8000/sooryanfm",
       "logoColor": "#9b59b6",
       "logoText": "SO"
+    },
+    {
+      "id": "siyatha-fm",
+      "name": "Siyatha FM",
+      "language": "Sinhala",
+      "streamUrl": "https://radio.lotustechnologieslk.net:8000/siyathafm",
+      "logoColor": "#e67e22",
+      "logoText": "SY"
     }
   ]
 }
