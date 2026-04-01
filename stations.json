@@ -8,15 +8,7 @@
       "logoColor": "#e74c3c",
       "logoText": "HF"
     },
-    {
-      "id": "sirasa-fm",
-      "name": "Sirasa FM",
-      "language": "Sinhala",
-      "streamUrl": "https://radio.lotustechnologieslk.net:8000/sirasafm",
-      "logoColor": "#3498db",
-      "logoText": "SF"
-    },
-    {
+{
       "id": "gold-fm",
       "name": "Gold FM",
       "language": "English",
@@ -28,7 +20,7 @@
       "id": "shree-fm",
       "name": "Shree FM",
       "language": "Sinhala",
-      "streamUrl": "https://radio.lotustechnologieslk.net:8000/shreefm",
+      "streamUrl": "http://207.148.74.192:7860/stream2.mp3",
       "logoColor": "#f39c12",
       "logoText": "SF"
     },
@@ -36,7 +28,7 @@
       "id": "sooryan-fm",
       "name": "Sooryan FM",
       "language": "Tamil",
-      "streamUrl": "https://radio.lotustechnologieslk.net:8000/sooryanfm",
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/sooriyanfmgarden",
       "logoColor": "#9b59b6",
       "logoText": "SO"
     },
@@ -44,7 +36,7 @@
       "id": "siyatha-fm",
       "name": "Siyatha FM",
       "language": "Sinhala",
-      "streamUrl": "https://radio.lotustechnologieslk.net:8000/siyathafm",
+      "streamUrl": "https://dc02.onlineradio.voaplus.com/siyathafm",
       "logoColor": "#e67e22",
       "logoText": "SY"
     }
