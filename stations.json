@@ -47,6 +47,14 @@
       "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden",
       "logoColor": "#f1c40f",
       "logoText": "SU"
+    },
+    {
+      "id": "lakhanda",
+      "name": "Lakhanda",
+      "language": "Sinhala",
+      "streamUrl": "https://cp12.serverse.com/proxy/itnfm?mp=/stream",
+      "logoColor": "#1abc9c",
+      "logoText": "LK"
     }
   ]
 }
