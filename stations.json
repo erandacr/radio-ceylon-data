@@ -39,6 +39,14 @@
       "streamUrl": "https://dc02.onlineradio.voaplus.com/siyathafm",
       "logoColor": "#e67e22",
       "logoText": "SY"
+    },
+    {
+      "id": "sun-fm",
+      "name": "Sun FM",
+      "language": "English",
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden",
+      "logoColor": "#f1c40f",
+      "logoText": "SU"
     }
   ]
 }
