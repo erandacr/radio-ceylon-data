@@ -97,14 +97,6 @@
       "logoText": "LF"
     },
     {
-      "id": "red-fm",
-      "name": "Red FM",
-      "language": "English",
-      "streamUrl": "https://shaincast.caster.fm:47830/listen.mp3",
-      "logoColor": "#c0392b",
-      "logoText": "RF"
-    },
-    {
       "id": "rhythm-fm",
       "name": "Rhythm FM",
       "language": "English",
@@ -185,14 +177,6 @@
       "logoText": "BA"
     },
     {
-      "id": "shakthi-fm",
-      "name": "Shakthi FM",
-      "language": "Tamil",
-      "streamUrl": "https://shaincast.caster.fm:47830/listen.mp3",
-      "logoColor": "#ab47bc",
-      "logoText": "SK"
-    },
-    {
       "id": "imai-fm",
       "name": "Imai FM",
       "language": "Tamil",
@@ -209,36 +193,12 @@
       "logoText": "BC"
     },
     {
-      "id": "freefm",
-      "name": "Free FM",
-      "language": "Sinhala",
-      "streamUrl": "https://stream.zeno.fm/z7q96fbw7rquv",
-      "logoColor": "#66bb6a",
-      "logoText": "FF"
-    },
-    {
       "id": "krushi",
       "name": "Krushi Radio",
       "language": "Sinhala",
       "streamUrl": "https://radioserver.krushiradio.lk:8000/radio.mp3",
       "logoColor": "#8d6e63",
       "logoText": "KR"
-    },
-    {
-      "id": "slbc-city",
-      "name": "SLBC City FM",
-      "language": "English",
-      "streamUrl": "https://stream.zeno.fm/53g2h8033d0uv",
-      "logoColor": "#5c6bc0",
-      "logoText": "CF"
-    },
-    {
-      "id": "slbc-sinhala-commercial",
-      "name": "SLBC Sinhala Commercial",
-      "language": "Sinhala",
-      "streamUrl": "https://stream.zeno.fm/fkq6fvc43d0uv.aac",
-      "logoColor": "#78909c",
-      "logoText": "SC"
     }
   ]
 }
