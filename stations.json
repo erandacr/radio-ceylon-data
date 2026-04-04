@@ -4,31 +4,47 @@
       "id": "hiru-fm",
       "name": "Hiru FM",
       "language": "Sinhala",
-      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden",
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1/",
       "logoColor": "#e74c3c",
       "logoText": "HF"
     },
-{
+    {
       "id": "gold-fm",
       "name": "Gold FM",
       "language": "English",
-      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/goldfmgarden",
+      "streamUrl": "https://radio.lotustechnologieslk.net:8000/stream/1/",
       "logoColor": "#2ecc71",
       "logoText": "GF"
     },
     {
-      "id": "shree-fm",
-      "name": "Shree FM",
+      "id": "shaa-fm",
+      "name": "Shaa FM",
       "language": "Sinhala",
-      "streamUrl": "http://207.148.74.192:7860/stream2.mp3",
-      "logoColor": "#f39c12",
-      "logoText": "SF"
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/shaafmgarden/stream/1/",
+      "logoColor": "#3498db",
+      "logoText": "SH"
+    },
+    {
+      "id": "sirasa-fm",
+      "name": "Sirasa FM",
+      "language": "Sinhala",
+      "streamUrl": "https://mbc.thestreamtech.com:8087/stream/1/",
+      "logoColor": "#8e44ad",
+      "logoText": "SI"
+    },
+    {
+      "id": "fm-derana",
+      "name": "FM Derana",
+      "language": "Sinhala",
+      "streamUrl": "https://cp12.serverse.com/proxy/fmderana/stream/1/",
+      "logoColor": "#e67e22",
+      "logoText": "FD"
     },
     {
       "id": "sooryan-fm",
-      "name": "Sooryan FM",
+      "name": "Sooriyan FM",
       "language": "Tamil",
-      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/sooriyanfmgarden",
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/sooriyanfmgarden/stream/1/",
       "logoColor": "#9b59b6",
       "logoText": "SO"
     },
@@ -44,7 +60,7 @@
       "id": "sun-fm",
       "name": "Sun FM",
       "language": "English",
-      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden",
+      "streamUrl": "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden/stream/1/",
       "logoColor": "#f1c40f",
       "logoText": "SU"
     },
@@ -55,6 +71,174 @@
       "streamUrl": "https://cp12.serverse.com/proxy/itnfm?mp=/stream",
       "logoColor": "#1abc9c",
       "logoText": "LK"
+    },
+    {
+      "id": "y-fm",
+      "name": "Y FM",
+      "language": "Sinhala",
+      "streamUrl": "https://mbc.thestreamtech.com:7032/",
+      "logoColor": "#2c3e50",
+      "logoText": "YF"
+    },
+    {
+      "id": "kiss-fm",
+      "name": "Kiss FM",
+      "language": "English",
+      "streamUrl": "https://srv01.onlineradio.voaplus.com/kissfm",
+      "logoColor": "#e91e63",
+      "logoText": "KF"
+    },
+    {
+      "id": "lite-fm",
+      "name": "Lite FM",
+      "language": "English",
+      "streamUrl": "https://srv01.onlineradio.voaplus.com/lite878",
+      "logoColor": "#00bcd4",
+      "logoText": "LF"
+    },
+    {
+      "id": "red-fm",
+      "name": "Red FM",
+      "language": "English",
+      "streamUrl": "https://shaincast.caster.fm:47830/listen.mp3",
+      "logoColor": "#c0392b",
+      "logoText": "RF"
+    },
+    {
+      "id": "rhythm-fm",
+      "name": "Rhythm FM",
+      "language": "English",
+      "streamUrl": "https://srv01.onlineradio.voaplus.com/rhythmfm",
+      "logoColor": "#ff5722",
+      "logoText": "RH"
+    },
+    {
+      "id": "real-radio",
+      "name": "Real Radio",
+      "language": "English",
+      "streamUrl": "https://srv01.onlineradio.voaplus.com/realfm",
+      "logoColor": "#607d8b",
+      "logoText": "RR"
+    },
+    {
+      "id": "fox-fm",
+      "name": "Fox FM",
+      "language": "English",
+      "streamUrl": "https://cp11.serverse.com/proxy/foxfm/stream/;stream.mp3",
+      "logoColor": "#ff9800",
+      "logoText": "FX"
+    },
+    {
+      "id": "rasa-fm",
+      "name": "Rasa FM",
+      "language": "Sinhala",
+      "streamUrl": "https://sonic01.instainternet.com/8084/stream",
+      "logoColor": "#4caf50",
+      "logoText": "RA"
+    },
+    {
+      "id": "rangiri",
+      "name": "Rangiri Sri Lanka",
+      "language": "Sinhala",
+      "streamUrl": "https://rangiri.radioca.st/stream/1/",
+      "logoColor": "#795548",
+      "logoText": "RG"
+    },
+    {
+      "id": "shraddha",
+      "name": "Shraddha Radio",
+      "language": "Sinhala",
+      "streamUrl": "https://cp11.serverse.com/proxy/kqxjpewq?mp=/stream/1/",
+      "logoColor": "#673ab7",
+      "logoText": "SR"
+    },
+    {
+      "id": "sitha-fm",
+      "name": "Sitha FM",
+      "language": "Sinhala",
+      "streamUrl": "https://shaincast.caster.fm:48148/listen.mp3",
+      "logoColor": "#009688",
+      "logoText": "ST"
+    },
+    {
+      "id": "v-fm",
+      "name": "V FM",
+      "language": "Sinhala",
+      "streamUrl": "https://dc1.serverse.com/proxy/fmlanka/stream/1/",
+      "logoColor": "#3f51b5",
+      "logoText": "VF"
+    },
+    {
+      "id": "vasantham",
+      "name": "Vasantham",
+      "language": "Tamil",
+      "streamUrl": "https://cp12.serverse.com/proxy/vasanthamfm/stream/1/",
+      "logoColor": "#cddc39",
+      "logoText": "VA"
+    },
+    {
+      "id": "bathusha",
+      "name": "Bathusha Radio",
+      "language": "Tamil",
+      "streamUrl": "https://eu10.fastcast4u.com:14550/stream",
+      "logoColor": "#ff5252",
+      "logoText": "BA"
+    },
+    {
+      "id": "shakthi-fm",
+      "name": "Shakthi FM",
+      "language": "Tamil",
+      "streamUrl": "https://shaincast.caster.fm:47830/listen.mp3",
+      "logoColor": "#ab47bc",
+      "logoText": "SK"
+    },
+    {
+      "id": "imai-fm",
+      "name": "Imai FM",
+      "language": "Tamil",
+      "streamUrl": "https://centova71.instainternet.com/proxy/imaifmradio?mp=/stream/1/",
+      "logoColor": "#26a69a",
+      "logoText": "IM"
+    },
+    {
+      "id": "bestcoast-fm",
+      "name": "Bestcoast FM",
+      "language": "English",
+      "streamUrl": "https://streams.radio.co/sea5dddd6b/listen",
+      "logoColor": "#42a5f5",
+      "logoText": "BC"
+    },
+    {
+      "id": "freefm",
+      "name": "Free FM",
+      "language": "Sinhala",
+      "streamUrl": "https://stream.zeno.fm/z7q96fbw7rquv",
+      "logoColor": "#66bb6a",
+      "logoText": "FF"
+    },
+    {
+      "id": "krushi",
+      "name": "Krushi Radio",
+      "language": "Sinhala",
+      "streamUrl": "https://radioserver.krushiradio.lk:8000/radio.mp3",
+      "logoColor": "#8d6e63",
+      "logoText": "KR"
+    },
+    {
+      "id": "slbc-city",
+      "name": "SLBC City FM",
+      "language": "English",
+      "streamUrl": "https://stream.zeno.fm/53g2h8033d0uv",
+      "logoColor": "#5c6bc0",
+      "logoText": "CF"
+    },
+    {
+      "id": "slbc-sinhala-commercial",
+      "name": "SLBC Sinhala Commercial",
+      "language": "Sinhala",
+      "streamUrl": "https://stream.zeno.fm/fkq6fvc43d0uv.aac",
+      "logoColor": "#78909c",
+      "logoText": "SC"
     }
   ]
 }
