@@ -1,5 +1,6 @@
 {
-  "stations": [
+  "feedbackUrl": "https://docs.google.com/forms/d/e/1FAIpQLScVbrCuhiwLpd_ugWIg4sgdQ1SClH8brYp2K2Km2MM1ajckiA/viewform?usp=header",
+  "stations": [  "stations": [
     {
       "id": "hiru-fm",
       "name": "Hiru FM",
